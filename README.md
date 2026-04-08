@@ -1,6 +1,6 @@
 <div align="center">
 
-# 已故亲人.skill
+# 亲人.skill
 
 > *"保存珍贵记忆，重新建立情感连接。"*
 
