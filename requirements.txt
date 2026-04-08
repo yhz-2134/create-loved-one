@@ -1,0 +1,19 @@
+# 依赖项
+
+# 基础依赖
+requests
+Pillow
+
+# 可选依赖（用于解析聊天记录和照片）
+pandas
+opencv-python
+ExifRead
+
+# 用于处理微信聊天记录
+sqlite3
+
+# 用于处理QQ聊天记录
+beautifulsoup4
+
+# 用于处理社交媒体内容
+selenium

@@ -1,0 +1,58 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 依赖包
+*.egg-info/
+build/
+dist/
+
+# 测试
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 配置文件
+.env
+
+# 生成的Skill文件
+.claude/
+
+# 临时文件
+/tmp/
+*.tmp
+*.temp
+
+# 数据库文件
+*.db
+*.sqlite3
+
+# 导出的聊天记录和照片
+*.json
+*.html
+*.xml
+*.jpg
+*.jpeg
+*.png
